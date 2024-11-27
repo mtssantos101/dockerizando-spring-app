@@ -1,3 +1,4 @@
+#in progress
 FROM --platform=$BUILDPLATFORM maven:3.8.5-eclipse-temurin-17 AS builder
 
 LABEL mantainer="mtssantos101@gmail.com"
